@@ -1,0 +1,20 @@
+
+===== ALPHASEEKER PAPER TRADER (LIVE PRICES) =====
+PAPER TRADE MODE — NO KEYS, NO WALLETS, NO REAL TRADES
+Starting USD balance: 1000
+Run error Error: ENOENT: no such file or directory, open 'C:\C:\Users\LG\Desktop\herbelia\APP\TradingApp\bot\sample_pairs.json'
+    at Module.readFileSync (node:fs:441:20)
+    at main (file:///C:/Users/LG/Desktop/herbelia/APP/TradingApp/bot/runBot.js:38:26)
+Run error Error: ENOENT: no such file or directory, open 'C:\C:\Users\LG\Desktop\herbelia\APP\TradingApp\bot\sample_pairs.json'
+    at Module.readFileSync (node:fs:441:20)
+    at main (file:///C:/Users/LG/Desktop/herbelia/APP/TradingApp/bot/runBot.js:38:26)
+Run error Error: ENOENT: no such file or directory, open 'C:\C:\Users\LG\Desktop\herbelia\APP\TradingApp\bot\sample_pairs.json'
+    at Module.readFileSync (node:fs:441:20)
+    at main (file:///C:/Users/LG/Desktop/herbelia/APP/TradingApp/bot/runBot.js:38:26)
+Run error Error: ENOENT: no such file or directory, open 'C:\C:\Users\LG\Desktop\herbelia\APP\TradingApp\bot\sample_pairs.json'
+    at Module.readFileSync (node:fs:441:20)
+    at main (file:///C:/Users/LG/Desktop/herbelia/APP/TradingApp/bot/runBot.js:38:26)
+Run error Error: ENOENT: no such file or directory, open 'C:\C:\Users\LG\Desktop\herbelia\APP\TradingApp\bot\sample_pairs.json'
+    at Module.readFileSync (node:fs:441:20)
+    at main (file:///C:/Users/LG/Desktop/herbelia/APP/TradingApp/bot/runBot.js:38:26)
+2026-01-27T02:30:34.482Z [INFO] Reached MAX_ITERATIONS, exiting loop

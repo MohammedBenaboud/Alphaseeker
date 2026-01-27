@@ -1,0 +1,52 @@
+{
+  "ethereum": [
+    {
+      "pairAddress": "0xethpair1",
+      "baseToken": { "symbol": "SHIT1" },
+      "quoteToken": { "symbol": "USDT" },
+      "priceUsd": 0.00012,
+      "liquidityUsd": 20000,
+      "volumeH24": 15000,
+      "priceChangeH1": 2.5,
+      "priceChangeH24": 18.2,
+      "createdAt": "2026-01-20T00:00:00Z"
+    },
+    {
+      "pairAddress": "0xethpair2",
+      "baseToken": { "symbol": "MOONX" },
+      "quoteToken": { "symbol": "USDC" },
+      "priceUsd": 0.0034,
+      "liquidityUsd": 500000,
+      "volumeH24": 120000,
+      "priceChangeH1": -1.2,
+      "priceChangeH24": 5.0,
+      "createdAt": "2025-12-01T00:00:00Z"
+    }
+  ],
+  "bsc": [
+    {
+      "pairAddress": "0xbscpair1",
+      "baseToken": { "symbol": "WIF" },
+      "quoteToken": { "symbol": "BNB" },
+      "priceUsd": 0.000004,
+      "liquidityUsd": 30000,
+      "volumeH24": 25000,
+      "priceChangeH1": 4.0,
+      "priceChangeH24": 30.0,
+      "createdAt": "2026-01-25T00:00:00Z"
+    }
+  ],
+  "solana": [
+    {
+      "pairAddress": "solpair1",
+      "baseToken": { "symbol": "BONK" },
+      "quoteToken": { "symbol": "SOL" },
+      "priceUsd": 0.0002,
+      "liquidityUsd": 15000,
+      "volumeH24": 8000,
+      "priceChangeH1": 1.5,
+      "priceChangeH24": 12.0,
+      "createdAt": "2026-01-24T00:00:00Z"
+    }
+  ]
+}
